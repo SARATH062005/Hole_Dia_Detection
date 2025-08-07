@@ -90,7 +90,7 @@ Results are stored per `cycleID`, and once a full set is processed, a row is wri
 ### 🔧 1. Clone the Repository
 
 ```bash
-git clone https://github.com/SARATH062005/Hole_Dia_Detection.git
+git clone https:/github.com/SARATH062005/Hole_Dia_Detection.git
 cd Hole_Dia_Detection
 ```
 
