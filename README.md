@@ -23,7 +23,7 @@ graph TD
     C --> D{Filter by Exposure?};
     D -- Yes --> E[🖼️ Load Image];
     D -- No --> B;
-    E --> F[Mask 20px Corners];
+    E --> F[Mask Images Based on Hole Id];
     F --> G{Select Algorithm by Hole ID};
     
     subgraph RC Group Logic
